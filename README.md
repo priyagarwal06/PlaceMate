@@ -1,5 +1,3 @@
-
-
 \# PlaceMate – Smart Placement Portal
 
 
@@ -200,7 +198,7 @@ Browse Jobs
 
 Eligibility Check
 
-(CPGA + Branch + Skills)
+(CGPA + Branch + Skills)
 
 &#x20;       ↓
 
